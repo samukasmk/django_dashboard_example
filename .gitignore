@@ -1,3 +1,6 @@
+# Don't ignore dist bootstrap
+!bootstrap/dist
+
 # Ignore all sqlite3 databases
 *.db
 
